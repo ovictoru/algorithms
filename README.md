@@ -1,2 +1,3 @@
-# algorithms
-Estudos, atividades e projetos de Lógica de Programação e Algoritmos com diversas linguagens e pseudocódigos.
+</h1>
+<p align="center">🚀 Repositório para auxiliar os estudos, atividades e projetos de Lógica de Programação e Algoritmos.</p>
+
