@@ -1,6 +1,6 @@
 
 </h1>
-<p align="center">🚀 Repositório para auxiliar os estudos, atividades e projetos de Lógica de Programação e Algoritmos.</p>
+<p align="center">🚀 Repositório para auxiliar na organização dos meus estudos, atividades e projetos de Lógica de Programação e Algoritmos.</p>
 
 <p align="center">
  <a href="#Informações">Informações</a> •
