@@ -1,3 +1,6 @@
+<div align="center">
+<img src="" />
+</div>
 
 </h1>
 <p align="center">🚀 Repositório para auxiliar na organização dos meus estudos, atividades e projetos de Lógica de Programação e Algoritmos.</p>
