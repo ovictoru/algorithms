@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" />
+<img src="![logo_projeto_algoritmos8-removebg-preview](https://github.com/ovictoru/algorithms/assets/133245557/19716ae3-6c2f-4347-9544-fdf34459d483)" />
 </div>
 
 </h1>
