@@ -14,7 +14,7 @@
  <a href="#Treinamentos">Treinamentos</a> • 
  <a href="#Linguagens">Linguagens</a> • 
  <a href="#Algoritmos">Algoritmos</a> •
- <a href="#Ferramentas">Feraramentas</a> • 
+ <a href="#Ferramentas">Ferramentas</a> • 
  <a href="#Projetos">Projetos</a> • 
  <a href="#autor">Autor</a>
 </p>
